@@ -1,10 +1,18 @@
 .App {
-  text-align: center;
+  padding: 1em;
 }
 
+p {
+  margin: 0.3rem;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.ProseMirror {
+  padding: 1em;
+  font-family: Inter;
 }
 
 @media (prefers-reduced-motion: no-preference) {
